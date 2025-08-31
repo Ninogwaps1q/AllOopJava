@@ -12,7 +12,6 @@ public class Main {
             System.out.print("Enter Current Balance: ");
             int curBal = inp.nextInt();
 
-        
             System.out.print("Enter Withdrawal Amount: ");
             int withAmount = inp.nextInt();
 
